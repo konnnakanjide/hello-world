@@ -1,2 +1,5 @@
 # hello-world
-Just another responsitory
+
+HI Humans!
+
+Hubot here, I like Node.
